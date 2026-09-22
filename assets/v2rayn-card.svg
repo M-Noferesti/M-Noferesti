@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title desc">
+  <title id="title">v2rayN with Psiphon support</title>
+  <desc id="desc">Windows networking client with integrated Psiphon modes and region selection.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#3B82F6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  </defs>
+  <rect width="600" height="220" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="598" height="218" rx="21" fill="none" stroke="#3B82F6" stroke-opacity=".4"/>
+  <circle cx="72" cy="70" r="34" fill="#2563EB"/>
+  <text x="72" y="82" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="800">P</text>
+  <rect x="128" y="48" width="108" height="24" rx="12" fill="#22D3EE" fill-opacity=".12"/>
+  <text x="182" y="65" text-anchor="middle" fill="#67E8F9" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">WINDOWS · C#</text>
+  <text x="128" y="103" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">v2rayN + Psiphon</text>
+  <text x="40" y="151" fill="#A5B4FC" font-family="Segoe UI,Arial,sans-serif" font-size="15">Built-in modes · Region selection · TUN integration</text>
+  <rect x="40" y="180" width="520" height="3" rx="1.5" fill="url(#line)"/>
+  <text x="40" y="204" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="12">VIEW PROJECT  →</text>
+</svg>

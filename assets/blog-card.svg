@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Server-rendered Django Blog</title>
+  <desc id="desc">A server-rendered blog experience created with Django and SCSS.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18112B"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#23133D"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#A78BFA"/><stop offset=".55" stop-color="#F472B6"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="218" rx="21" fill="none" stroke="#A78BFA" stroke-opacity=".4"/>
+  <g transform="translate(52 43)">
+    <rect width="92" height="76" rx="12" fill="#A78BFA" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".55"/>
+    <path d="M22 24h48M22 39h48M22 54h31" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <rect x="184" y="43" width="113" height="24" rx="12" fill="#A78BFA" fill-opacity=".13"/>
+  <text x="240" y="60" text-anchor="middle" fill="#C4B5FD" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">DJANGO · SCSS</text>
+  <text x="184" y="103" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">Server-Rendered Blog</text>
+  <text x="184" y="140" fill="#D8B4FE" font-family="Segoe UI,Arial,sans-serif" font-size="15">A content-first web experience powered by Django</text>
+  <rect x="52" y="180" width="1096" height="3" rx="1.5" fill="url(#line)"/>
+  <text x="52" y="204" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="12">VIEW PROJECT  →</text>
+</svg>
