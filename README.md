@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mohammad Noferesti — full-stack web developer" />
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Mohammad Noferesti — full-stack web developer and Founder & CEO of Monstizo" />
 </div>
 
 <br />

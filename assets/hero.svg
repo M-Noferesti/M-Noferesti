@@ -36,7 +36,11 @@
     <rect y="123" width="530" height="5" rx="2.5" fill="url(#accent)"/>
     <text y="174" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="25">Full-stack web developer</text>
     <text y="216" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="17">Django · React · Python · JavaScript · Vibe Coding</text>
-    <text y="255" fill="#C4B5FD" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Founder &amp; CEO at Monstizo</text>
+    <g transform="translate(0 235)">
+      <rect width="254" height="38" rx="19" fill="#8B5CF6" fill-opacity=".16" stroke="#A78BFA" stroke-opacity=".58"/>
+      <circle cx="20" cy="19" r="6" fill="#A78BFA"/>
+      <text x="36" y="24" fill="#DDD6FE" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">FOUNDER &amp; CEO · MONSTIZO</text>
+    </g>
   </g>
 
   <g transform="translate(790 78) rotate(2 155 122)" filter="url(#shadow)">
