@@ -6,12 +6,15 @@
 
 <div align="center">
   <a href="https://github.com/M-Noferesti?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://monstizo.com"><img src="https://img.shields.io/badge/Founder_%26_CEO-Monstizo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Monstizo" /></a>
   <a href="https://github.com/M-Noferesti"><img src="https://img.shields.io/badge/Follow-2563EB?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Follow Mohammad on GitHub" /></a>
 </div>
 
 ## About me
 
 I am a **full-stack web developer** building modern products with Django, React, Python, and JavaScript. Right now, I am mostly exploring **vibe coding**: turning ideas into working web experiences quickly, then refining them into useful products.
+
+I am also the **Founder & CEO of [Monstizo](https://monstizo.com)**.
 
 ```text
 Current focus  →  Vibe coding and full-stack web products

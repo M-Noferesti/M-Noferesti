@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">Mohammad Noferesti</title>
-  <desc id="desc">Full-stack web developer exploring vibe coding and building useful products.</desc>
+  <desc id="desc">Full-stack web developer, vibe coder, and Founder and CEO of Monstizo.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070A17"/>
@@ -36,6 +36,7 @@
     <rect y="123" width="530" height="5" rx="2.5" fill="url(#accent)"/>
     <text y="174" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="25">Full-stack web developer</text>
     <text y="216" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="17">Django · React · Python · JavaScript · Vibe Coding</text>
+    <text y="255" fill="#C4B5FD" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Founder &amp; CEO at Monstizo</text>
   </g>
 
   <g transform="translate(790 78) rotate(2 155 122)" filter="url(#shadow)">
